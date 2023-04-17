@@ -1,3 +1,7 @@
+## Binary Tree Implementation
+
+- Java Binary Tree implementation for educational purposes.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
